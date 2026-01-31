@@ -1,0 +1,196 @@
+```html
+<section id="menu" style="max-width: 900px; margin: 0 auto; padding: 40px 20px; line-height: 1.6;">
+  <h2 style="font-size: 34px; margin: 0 0 18px;">Jelovnik</h2>
+  <p style="margin: 0 0 28px; opacity: 0.85;">
+    Hutong – azijska inspiracija + proteinski fokus. Dine-in i take away.
+  </p>
+
+  <!-- AZIJSKA INSPIRACIJA -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Azijska inspiracija</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Damplinzi (ručno pravljeni)</strong><br>
+      <span style="opacity:0.85;">Vegan / svinjski / juneći</span>
+    </div>
+    <strong>540 / 630 / 700</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Kung Pao kineska piletina</strong><br>
+      <span style="opacity:0.85;">Piletina, pirinač, praziluk, mladi luk, kikiriki</span>
+    </div>
+    <strong>920</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Chao Mian junetina (kineske pržene nudle)</strong><br>
+      <span style="opacity:0.85;">Pšenične nudle, ramstek, paprika, mladi luk</span>
+    </div>
+    <strong>1180</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Banh mi (vijetnamski sendvič)</strong><br>
+      <span style="opacity:0.85;">Hrskavi baget, svinjski pauflek, šargarepa, krastavac, korijander</span>
+    </div>
+    <strong>810</strong>
+  </div>
+
+  <div style="border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div style="display:flex; justify-content:space-between; gap:16px;">
+      <div>
+        <strong>Pho Bo (vijetnamska supa)</strong><br>
+        <span style="opacity:0.85;">Ćepkana junetina — pirinčane nudle, crni luk, začinsko bilje, klice, korijander</span>
+      </div>
+      <strong>850</strong>
+    </div>
+    <div style="display:flex; justify-content:space-between; gap:16px; margin-top:10px;">
+      <div style="opacity:0.85;">
+        Ramstek — pirinčane nudle, crni luk, začinsko bilje, klice, korijander
+      </div>
+      <strong>1150</strong>
+    </div>
+  </div>
+
+  <div style="border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <strong>Pad Thai (tajlandske nudle)</strong><br>
+    <div style="display:flex; justify-content:space-between; gap:16px; margin-top:10px;">
+      <div style="opacity:0.85;">Vegan — tofu, pirinčane nudle, kikiriki, klice, mladi luk</div>
+      <strong>840</strong>
+    </div>
+    <div style="display:flex; justify-content:space-between; gap:16px; margin-top:8px;">
+      <div style="opacity:0.85;">Vegetarijanski — kozice, jaje, pirinčane nudle, kikiriki, klice, mladi luk</div>
+      <strong>1160</strong>
+    </div>
+    <div style="display:flex; justify-content:space-between; gap:16px; margin-top:8px;">
+      <div style="opacity:0.85;">Piletina — piletina, jaje, pirinčane nudle, kikiriki, klice, mladi luk</div>
+      <strong>970</strong>
+    </div>
+  </div>
+
+  <!-- SALATE -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Salate</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Edamame</strong><br>
+      <span style="opacity:0.85;">Hrskave sojine mahune</span>
+    </div>
+    <strong>380</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Pai Huang Gua</strong><br>
+      <span style="opacity:0.85;">Krastavac, soja sos, pirinčano sirće, beli luk</span>
+    </div>
+    <strong>350</strong>
+  </div>
+
+  <!-- PROTEINSKI FOKUS -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Proteinski fokus</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Hutong burger (standard / dupli)</strong><br>
+      <span style="opacity:0.85;">Junetina, pufnasta lepinja, mocarela, ajzberg salata, crveni luk, senf</span>
+    </div>
+    <strong>800 / 1120</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Ramstek sa sosom od pečuraka i batatom</strong><br>
+      <span style="opacity:0.85;">Ramstek, batat, pečurke</span>
+    </div>
+    <strong>1580</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Pileći file</strong><br>
+      <span style="opacity:0.85;">Pileći file, pirinač, pečurke</span>
+    </div>
+    <strong>730</strong>
+  </div>
+
+  <!-- DESERTI -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Deserti</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Proteinske palačinke</strong><br>
+      <span style="opacity:0.85;">Ovseno brašno, kokos brašno, jaje, protein, čokolada, pomorandža, med</span>
+    </div>
+    <strong>640</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Dodaci za palačinke</strong><br>
+      <span style="opacity:0.85;">Badem / čokolada / banana / šumsko voće / kikiriki puter</span>
+    </div>
+    <strong>100</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Proteinski kolač</strong><br>
+      <span style="opacity:0.85;">Kesten pire, malina, protein, čokolada</span>
+    </div>
+    <strong>470</strong>
+  </div>
+
+  <!-- ŠEJKOVI -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Šejkovi</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Proteinski šejk (banana / šumsko voće)</strong><br>
+      <span style="opacity:0.85;">Banana, med, mleko, protein</span>
+    </div>
+    <strong>380 / 440</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Hutong šejk</strong><br>
+      <span style="opacity:0.85;">Kokosovo mleko, med, egzotični začini, protein</span>
+    </div>
+    <strong>490</strong>
+  </div>
+
+  <!-- DODACI -->
+  <h3 style="font-size: 22px; margin: 34px 0 14px; text-transform: uppercase; letter-spacing: 1px;">Dodaci</h3>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Jaje / pirinač / tofu</strong>
+    </div>
+    <strong>90 / 160 / 150</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; border-bottom:1px solid rgba(255,255,255,0.15); padding: 12px 0;">
+    <div>
+      <strong>Batat / parmezan</strong>
+    </div>
+    <strong>160 / 170</strong>
+  </div>
+
+  <div style="display:flex; justify-content:space-between; gap:16px; padding: 12px 0;">
+    <div>
+      <strong>Sosovi</strong><br>
+      <span style="opacity:0.85;">Kineski ljuti sos / slatko-ljuti / soja / pirinčano sirće / sirača / hoisin</span>
+    </div>
+    <strong>80</strong>
+  </div>
+
+  <p style="margin-top:28px; font-size: 14px; opacity:0.75;">
+    Neka jela mogu sadržati, imati tragove ili su pripremljena uz proizvode koji sadrže alergenske sastojke.
+  </p>
+</section>
+```
